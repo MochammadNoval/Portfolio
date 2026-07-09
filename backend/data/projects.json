@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Sistem Informasi Kearsipan - Kemenag Sidoarjo",
+    "title_en": "Archival Information System - Kemenag Sidoarjo",
+    "description": "Mengembangkan aplikasi kearsipan responsif yang memastikan pengalaman pengguna yang optimal di berbagai perangkat melalui desain dan interaksi intuitif untuk mendukung kegiatan operasional layanan kearsipan, serta menerapkan fitur notifikasi berbasis email.",
+    "description_en": "Developed a responsive archival application that ensures optimal user experience across various devices through intuitive design and interactions to support operations, and implemented email-based notifications.",
+    "thumbnail": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=600&auto=format&fit=crop",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap 5"],
+    "status": "Completed",
+    "demoUrl": "https://kemenag-sidoarjo.example.com",
+    "githubUrl": "https://github.com/nouvalsaputra/kearsipan-kemenag"
+  },
+  {
+    "id": 2,
+    "title": "SIAKAD River Kids Special School",
+    "title_en": "SIAKAD River Kids Special School",
+    "description": "Mengembangkan aplikasi manajemen database sekolah berbasis website dengan merancang antarmuka pengguna yang sederhana dan mudah dipahami serta mengimplementasikan fitur keamanan data yang kuat untuk menjaga kerahasiaan dan integritas informasi.",
+    "description_en": "Developed a web-based school database management application by designing a simple and easy-to-understand user interface, and implemented robust data security features to maintain confidentiality and information integrity.",
+    "thumbnail": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop",
+    "technologies": ["Laravel", "Tailwind CSS", "JavaScript", "jQuery", "AJAX", "MySQL"],
+    "status": "Completed",
+    "demoUrl": "https://siakad-riverkids.example.com",
+    "githubUrl": "https://github.com/nouvalsaputra/siakad-riverkids"
+  },
+  {
+    "id": 3,
+    "title": "Knowledge Management System (KMS)",
+    "title_en": "Knowledge Management System (KMS)",
+    "description": "Platform pusat dokumentasi dan kolaborasi pengetahuan internal organisasi. Membantu tim menyusun, mencari, dan membagikan materi pengetahuan secara terstruktur dengan fitur pencarian berbasis teks penuh dan indeksasi dokumen otomatis.",
+    "description_en": "A centralized documentation and knowledge collaboration platform for organization internals. Helps teams organize, search, and share knowledge assets structurally with full-text search and automatic document indexing.",
+    "thumbnail": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?q=80&w=600&auto=format&fit=crop",
+    "technologies": ["Vue.js", "Python", "FastAPI", "PostgreSQL", "Tailwind CSS"],
+    "status": "Completed",
+    "demoUrl": "https://kms-demo.example.com",
+    "githubUrl": "https://github.com/nouvalsaputra/knowledge-management-system"
+  }
+]
